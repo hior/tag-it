@@ -5,8 +5,4 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,    
-    "require": {
-            "yiisoft/jquery": ">=1.4",
-            "yiisoft/yii2-jui": ">=1.8"
-    }
 }
