@@ -1,5 +1,5 @@
 {
-    "name": "aehlke/tag-it",
+    "name": "hior/tag-it",
     "description": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.",
     "homepage": "https://github.com/hior/tag-it",
     "license": "MIT",
