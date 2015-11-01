@@ -1,0 +1,10 @@
+{
+    "name": "aehlke/tag-it",
+    "description": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.",
+    "homepage": "https://github.com/hior/tag-it",
+    "license": "MIT",
+    "require": {
+            "yiisoft/jquery": ">=1.4",
+            "yiisoft/yii2-jui": ">=1.8"
+    }
+}
