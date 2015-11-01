@@ -4,5 +4,5 @@
     "homepage": "https://github.com/hior/tag-it",
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true,    
+    "prefer-stable": true
 }
