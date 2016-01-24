@@ -125,7 +125,11 @@
             }
 
             this.tagInput = $('<input type="text" />').addClass('ui-widget-content');
-
+            
+            this.tagInput.bind('paste', function(e){
+                e.preventDefault();
+            });
+            
             if (this.options.readOnly) this.tagInput.attr('disabled', 'disabled');
 
             if (this.options.tabIndex) {
